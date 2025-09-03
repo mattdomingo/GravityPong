@@ -65,5 +65,3 @@ The binary will be at `build/CppPong` (or `build/Release/CppPong.exe` on Windows
 * **Black window / no text** – ensure at least one of the system fonts listed in `src/Game.cpp` exists. Modify the font paths or copy a TTF file if necessary.
 
 ---
-
-Happy ponging!
